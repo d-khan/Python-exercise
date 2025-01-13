@@ -4,15 +4,15 @@ A literal is data whose values are determined by the literal itself.
 
 ## Objective
 
-1. Understand how Python use literals
-2. Differentiate Integer, Float, Boolean and String data types
-3. How arithmetic operations are done and understand operators precedence
+1. Understand how Python uses literals.
+2. Differentiate Integer, Float, Boolean and String data types.
+3. Understanding how arithmetic operations are performed and recognizing the precedence of operators.
 
 ## Prerequisite
 
 - Python & literals lecture
 
-## What do do you need to do this exercise?
+## What do you need to complete this exercise?
 
 - You can perform this exercise in any Python IDE, including JupyterLab or Google Colab. I recommend using PyCharm by JetBrains. As a Miramar College student, you are eligible for a free license for the JetBrains IDE environment. Please follow my video tutorial on how to download and install PyCharm Professional. 
 
