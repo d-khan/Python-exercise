@@ -12,7 +12,7 @@ A literal is data whose values are determined by the literal itself.
 
 - Python & literals lecture
 
-## What you need to perform this exercise?
+## What do do you need to do this exercise?
 
 - You can perform this exercise in any Python IDE, including JupyterLab or Google Colab. I recommend using PyCharm by JetBrains. As a Miramar College student, you are eligible for a free license for the JetBrains IDE environment. Please follow my video tutorial on how to download and install PyCharm Professional. 
 
@@ -72,11 +72,13 @@ type("False")
 
 Please verify using Python to determine if you have achieved at least 80% correct answers.
 
-### 3. Operator precendence
+### 3. Operator precedence
 
-a) Write your own arithmetic expression that uses at least one operator from each group and prove the operator's precedence. For example ```5 * 25 % 13 + 100 / -2 * 13 // 2 ** 3```
+a) Write your arithmetic expression that uses at least one operator from each group and prove the operator's precedence. For example ```5 * 25 % 13 + 100 / -2 * 13 // 2 ** 3```
 
-b) After writing your arithmetic expression, what will the output be without using Python? Use the table below for your reference.
+b) What will the output be without using Python after writing your arithmetic expression? Use the table below for your reference.
+
+c) Please verify using Python to determine if you have done it correctly.
 
 | Priority | Operator                                                     | Notes                    |
 | :------- | :----------------------------------------------------------- | :----------------------- |
