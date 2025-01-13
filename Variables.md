@@ -49,7 +49,7 @@ var1 = 100
 print(hex(id(var1)))
 # __________________________________ Write down the address here
 ```
-You should see two different addresses of var1. Please explain why there are two distinct addresses. What happened to the first address?
+You should see two different addresses of ```var1```. Explain why there are two distinct addresses. What happened to the first address?
 
 ```
 # ________________________________________________________________________
@@ -59,7 +59,6 @@ You should see two different addresses of var1. Please explain why there are two
 # ________________________________________________________________________
 ```
 
-Please verify using Python to determine if you have achieved at least 80% correct answers.
 
 ### 3. Operator precedence
 
