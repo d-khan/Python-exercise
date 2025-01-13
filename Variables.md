@@ -19,58 +19,42 @@ I recommend using PyCharm by JetBrains. As a Miramar College student, you are el
 Please follow my video tutorial on how to download and install PyCharm Professional. 
 
 ### 1. Variable definition
-
-What will the output be without using Python? Aim for 80% accuracy.
-
-```python
-print(5 + 2 - 2)
-# ______________________
-print(5 / 2)
-# ______________________
-print(6 // 2) # // integer division
-# ______________________
-print(2. * 3)
-# ______________________
-print(2 < 4)
-# ______________________
-print(2 >= 2)
-# ______________________
-print("Hello"+"World")
-# ______________________
-print("bla" * 3)
-# ______________________
-print(2 * 3 ** 3)
-# ______________________
-print(5 * 25 // 13 + 100 / 2 % 13 // 2)
-# ______________________
-print(2 * 3 % 5)
-# ______________________
-print((2 % -4), (2 % 4), (2 ** 3 ** 2))
-# ______________________
-```
-
-Please verify using Python to determine if you have achieved at least 80% correct answers.
-
-### 2. Data type
-
-What will the output be without using Python? Aim for 80% accuracy.
+No need to declare the variable data type; variables can be assigned values or strings as needed.
 
 ```python
-type("Hello")
-# ______________________
-type(1+"2")
-# ______________________
-type(1.)
-# ______________________
-type('A')
-# ______________________
-type(500)
-# ______________________
-type(True)
-# ______________________
-type("False")
-# ______________________
+var1 = 10 # integer
+print(type(var1)) # var1 holds integer data type
+var2 = 100.0 # float
+print(type(var2))  # var2 holds float data type
+print(var1 * var2)  # var1 * var2 - float data type
+str1 = "Hello World"
+type(str1)
+print(str1)
+str2 = 'Single quote can also be used'
+type(str2)
+print(str2)
+var1 = "Now I am a string data type"
+del(var1) # delete the var1
 ```
+
+### 2. Variable memory usage
+
+```python
+var1 = 10
+# Check the memory address of var1 by using the following statement
+print(hex(id(var1)))
+var1 = 100
+# Check the memory address of var1 again
+print(hex(id(var1)))
+```
+You should see two different addresses of var1. Please explain why there are two different addresses. What happened to the first address?
+
+```
+# ________________________________________________________________________
+
+# ________________________________________________________________________
+
+# ________________________________________________________________________
 
 Please verify using Python to determine if you have achieved at least 80% correct answers.
 
