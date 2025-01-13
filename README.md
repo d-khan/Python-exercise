@@ -1,2 +1,2 @@
-# Python-test
-This is a test
+# Python Exercise
+This is a supplemental material
