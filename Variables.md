@@ -41,11 +41,11 @@ del(var1) # delete the var1
 
 ```python
 var1 = 10
-# Check the memory address of ```var1``` by using the following statement
+# Check the memory address of var1 by using the following statement
 print(hex(id(var1)))
 # __________________________________ Write down the address here
 var1 = 100
-# Check the memory address of ```var1``` again
+# Check the memory address of var1 again
 print(hex(id(var1)))
 # __________________________________ Write down the address here
 ```
