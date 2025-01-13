@@ -1,6 +1,6 @@
 # Programming variables
 
-Variables are human-friendly name of memory locations
+Variables are human-friendly names of memory locations
 
 ## Objective
 
@@ -47,7 +47,7 @@ var1 = 100
 # Check the memory address of var1 again
 print(hex(id(var1)))
 ```
-You should see two different addresses of var1. Please explain why there are two different addresses. What happened to the first address?
+You should see two different addresses of var1. Please explain why there are two distinct addresses. What happened to the first address?
 
 ```
 # ________________________________________________________________________
