@@ -87,7 +87,7 @@ b) After writing your arithmetic expression, what will the output be without usi
 
 ## Challenges
 
-Share what challenges you have faced during the exercise.
+Please describe the challenges you faced during the exercise.
 
 ```python
 
@@ -105,5 +105,5 @@ Share what challenges you have faced during the exercise.
 
 ```
 
-** End of exercise **
+**End of exercise**
 
