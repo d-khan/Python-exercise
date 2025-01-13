@@ -57,6 +57,7 @@ You should see two different addresses of var1. Please explain why there are two
 # ________________________________________________________________________
 
 # ________________________________________________________________________
+```
 
 Please verify using Python to determine if you have achieved at least 80% correct answers.
 
@@ -67,13 +68,6 @@ a) Write your arithmetic expression that uses at least one operator from each gr
 b) What will the output be without using Python after writing your arithmetic expression? Use the table below for your reference.
 
 c) Please verify using Python to determine if you have done it correctly.
-
-| Priority | Operator                                                     | Notes                    |
-| :------- | :----------------------------------------------------------- | :----------------------- |
-| 1        | `**`                                                         | Right to left evaluation |
-| 2        | `+`, `-` (note: unary operators located next to the right of the power operator bind more strongly) | unary                    |
-| 3        | `*`, `/`, `//`, `%`                                          | Left to right evaluation |
-| 4        | `+`, `-`                                                     | binary                   |
 
 ## Challenges
 
