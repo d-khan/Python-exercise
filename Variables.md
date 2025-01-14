@@ -4,9 +4,9 @@ Variables are human-friendly names of memory locations
 
 ## Objective
 
-1. Understand how Python uses literals.
-2. Differentiate Integer, Float, Boolean and String data types.
-3. Understanding how arithmetic operations are performed and recognizing the precedence of operators.
+1. Understand how to define variables in Python.
+2. Gain a clear understanding of how the Python interpreter allocates memory addresses to variables.
+3. Skilled in troubleshooting techniques.
 
 ## Prerequisite
 
@@ -92,18 +92,15 @@ print(hex(id(str1[0])), hex(id(str1[1])))  # where 0 is the first index and 1 is
 | #                      |      |
 
 ### 4. Problem-solving
-4a. Let the variable ```x``` be ```dog``` and the variable ```y``` by ```cat```. Write the values returned by the following operations: Try solving without writing in Python.  
+4a. Let the variable ```x``` be ```dog``` and the variable ```y``` by ```cat```. Write the values returned by the following operations: **Try solving without writing in Python.**  
 -  x + y  
 -  "the " + x + " chases the " + y  
 -  x * 4  
 
 4b. If ```x = 50```. Use an assignment statement to increment the value of ```x``` by 1.  
 
-4c. 
-
-
 ### 5. Troubleshooting
-Please troubleshoot the following issue without using Python, and explain your reasoning.
+Please troubleshoot the following issue **without using Python**, and explain your reasoning.
 
 a. ```hello = "hello"```  
 b. ```_var = 100```  
