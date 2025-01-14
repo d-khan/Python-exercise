@@ -74,21 +74,22 @@ str2 = "World"
 # Find out the memory addresses of each character in str1 and str2.
 # The following is the example
 print(hex(id(str1[0])), hex(id(str1[1])))  # where 0 is the first index and 1 is the second index
-# Perform the same way as mentioned above and find out the addresses of other characters.
+# Follow the same method as described above to find the addresses of other characters and complete the table below.
 ```
 
 | Address in hexadecimal | Char |
-| ------- | ---- |
-| #       |      |
-| #       |      |
-| #       |      |
-| #       |      |
-| #       |      |
-| #       |      |
-| #       |      |
-| #       |      |
-| #       |      |
-| #       |      |
+| ---------------------- | ---- |
+| #                      |      |
+| #                      |      |
+| #                      |      |
+| #                      |      |
+| #                      |      |
+| #                      |      |
+| #                      |      |
+| #                      |      |
+| #                      |      |
+| #                      |      |
+
 
 
 
