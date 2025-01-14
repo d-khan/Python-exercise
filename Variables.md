@@ -49,7 +49,7 @@ var1 = 100
 print(hex(id(var1)))
 # __________________________________ Write down the address here
 
-# You should see two distinct addresses for ```var1```. Explain why there are two different addresses and what happened to the first one.
+# You should see two distinct addresses for var1. Explain why there are two different addresses and what happened to the first one.
 
 # ________________________________________________________________________
 
@@ -71,10 +71,12 @@ var2 = 100
 ```python
 str1 = "Hello"
 str2 = "World"
-# Find out the memory addresses of each character in ```str1``` and ```str2```.
+# Find out the memory addresses of each character in str1 and str2.
 # The following is the example
 print(hex(id(str1[0])), hex(id(str1[1])))  # where 0 is the first index and 1 is the second index
+# Perform the same way as mentioned above and find out the addresses of other characters.
 ```
 
+Memory map exampler
 **End of exercise**
 
