@@ -79,9 +79,9 @@ print(hex(id(str1[0])), hex(id(str1[1])))  # where 0 is the first index and 1 is
 
 | Address | Char |
 | ------- | ---- |
-|          |      |
-|         |      |
-|         |      |
+| .       |      |
+| .       |      |
+| .       |      |
 |         |      |
 |         |      |
 |         |      |
