@@ -10,7 +10,8 @@ Variables are human-friendly names of memory locations
 
 ## Prerequisite
 
-- Programming variables
+- Python literals lecture & lab
+- Programming variables lecture
 
 ## What do you need to complete this exercise?
 
@@ -91,6 +92,14 @@ print(hex(id(str1[0])), hex(id(str1[1])))  # where 0 is the first index and 1 is
 | #                      |      |
 
 ### 4. Problem-solving
+4a. Let the variable ```x``` be ```dog``` and the variable ```y``` by ```cat```. Write the values returned by the following operations: Try solving without writing in Python.  
+-  x + y  
+-  "the " + x + " chases the " + y  
+-  x * 4  
+
+4b. If ```x = 50```. Use an assignment statement to increment the value of ```x``` by 1.  
+
+4c. 
 
 
 ### 5. Troubleshooting
