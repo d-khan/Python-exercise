@@ -96,11 +96,11 @@ print(hex(id(str1[0])), hex(id(str1[1])))  # where 0 is the first index and 1 is
 ### 5. Troubleshooting
 Troubleshoot the following without using Python and provide the reason.
 
-a. ```hello = "hello"```
-b. ```_var = 100```
-c. ```!var_1 = 200```
-d. ```print = "print me"```
-e. ```False = 0```
+a. ```hello = "hello"```  
+b. ```_var = 100```  
+c. ```!var_1 = 200```  
+d. ```print = "print me"```  
+e. ```False = 0```  
 
 **End of exercise**
 
