@@ -74,7 +74,7 @@ str2 = "World"
 # Find out the memory addresses of each character in str1 and str2.
 # The following is the example
 print(hex(id(str1[0])), hex(id(str1[1])))  # where 0 is the first index and 1 is the second index
-# Follow the same method as described above to find the addresses of other characters and complete the table below.
+# Use the same method as described above to find the addresses of additional characters and complete the table below.
 ```
 
 | Address in hexadecimal | Char |
@@ -94,7 +94,7 @@ print(hex(id(str1[0])), hex(id(str1[1])))  # where 0 is the first index and 1 is
 
 
 ### 5. Troubleshooting
-Troubleshoot the following without using Python and provide the reason.
+Please troubleshoot the following issue without using Python, and explain your reasoning.
 
 a. ```hello = "hello"```  
 b. ```_var = 100```  
