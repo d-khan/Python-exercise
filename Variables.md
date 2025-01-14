@@ -92,7 +92,7 @@ print(hex(id(str1[0])), hex(id(str1[1])))  # where 0 is the first index and 1 is
 | #                      |      |
 
 ### 4. Problem-solving
-4a. Let the variable ```x``` be ```dog``` and the variable ```y``` by ```cat```. Write the values returned by the following operations: **Try solving without writing in Python.**  
+4a. Let the variable ```x``` be ```dog``` and the variable ```y``` be ```cat```. Write the values returned by the following operations: **Try solving without writing in Python.**  
 -  x + y  
 -  "the " + x + " chases the " + y  
 -  x * 4  
