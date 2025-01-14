@@ -48,10 +48,9 @@ var1 = 100
 # Check the memory address of var1 again
 print(hex(id(var1)))
 # __________________________________ Write down the address here
-```
-You should see two distinct addresses for ```var1```. Explain why there are two different addresses and what happened to the first one.
 
-```
+# You should see two distinct addresses for ```var1```. Explain why there are two different addresses and what happened to the first one.
+
 # ________________________________________________________________________
 
 # ________________________________________________________________________
@@ -59,41 +58,16 @@ You should see two distinct addresses for ```var1```. Explain why there are two 
 # ________________________________________________________________________
 
 var2 = 100
-Check the memory address of var2. Did the Python interpreter assign a new memory address or reuse the existing one?
+# Check the memory address of var2. Did the Python interpreter assign a new memory address or reuse the existing one?
 # ________________________________________________________________________
 
 # ________________________________________________________________________
 
 ```
 
+### 3. Memory map
 
-### 3. Operator precedence
 
-a) Write your arithmetic expression that uses at least one operator from each group and prove the operator's precedence. For example ```5 * 25 % 13 + 100 / -2 * 13 // 2 ** 3```
-
-b) What will the output be without using Python after writing your arithmetic expression? Use the table below for your reference.
-
-c) Please verify using Python to determine if you have done it correctly.
-
-## Challenges
-
-Please describe the challenges you faced during the exercise.
-
-```python
-
-# _________________________________________________________________________________________________
-
-# _________________________________________________________________________________________________
-
-# _________________________________________________________________________________________________
-
-# _________________________________________________________________________________________________
-
-# _________________________________________________________________________________________________
-
-# _________________________________________________________________________________________________
-
-```
 
 **End of exercise**
 
