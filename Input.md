@@ -92,12 +92,9 @@ print(hex(id(str1[0])), hex(id(str1[1])))  # where 0 is the first index and 1 is
 | #                      |      |
 
 ### 4. Problem-solving
-4a. Let the variable ```x``` be ```dog``` and the variable ```y``` be ```cat```. Write the values returned by the following operations: **Try solving without writing in Python.**  
--  x + y  
--  "the " + x + " chases the " + y  
--  x * 4  
+a. Write a code that takes number of years as input, calculates and prints the number of hours and minutes.  
 
-4b. If ```x = 50```. Use an assignment statement to increment the value of ```x``` by 1.  
+b. Write a code
 
 ### 5. Troubleshooting
 Please troubleshoot the following issue **without using Python**, and explain your reasoning.
