@@ -69,27 +69,6 @@ var2 = 100
 
 ### 3. Memory map
 
-```python
-str1 = "Hello"
-str2 = "World"
-# Find out the memory addresses of each character in str1 and str2.
-# The following is the example
-print(hex(id(str1[0])), hex(id(str1[1])))  # where 0 is the first index and 1 is the second index
-# Use the same method as described above to find the addresses of additional characters and complete the table below.
-```
-
-| Address in hexadecimal | Char |
-| ---------------------- | ---- |
-| #                      |      |
-| #                      |      |
-| #                      |      |
-| #                      |      |
-| #                      |      |
-| #                      |      |
-| #                      |      |
-| #                      |      |
-| #                      |      |
-| #                      |      |
 
 ### 4. Problem-solving
 a. Write a code that takes number of years as input, calculates and prints the number of hours and minutes.  
@@ -99,11 +78,7 @@ b. Write a code
 ### 5. Troubleshooting
 Please troubleshoot the following issue **without using Python**, and explain your reasoning.
 
-a. ```hello = "hello"```  
-b. ```_var = 100```  
-c. ```!var_1 = 200```  
-d. ```print = "print me"```  
-e. ```False = 0```  
+  
 
 **End of exercise**
 
