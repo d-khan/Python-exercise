@@ -49,7 +49,7 @@ var1 = 100
 print(hex(id(var1)))
 # __________________________________ Write down the address here
 ```
-You should see two different addresses of ```var1```. Explain why there are two distinct addresses. What happened to the first address?
+You should see two distinct addresses for ```var1```. Explain why there are two different addresses and what happened to the first one.
 
 ```
 # ________________________________________________________________________
@@ -57,6 +57,13 @@ You should see two different addresses of ```var1```. Explain why there are two 
 # ________________________________________________________________________
 
 # ________________________________________________________________________
+
+var2 = 100
+Check the memory address of var2. Did the Python interpreter assign a new memory address or reuse the existing one?
+# ________________________________________________________________________
+
+# ________________________________________________________________________
+
 ```
 
 
