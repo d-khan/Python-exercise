@@ -58,6 +58,7 @@ print(hex(id(var1)))
 # ________________________________________________________________________
 
 var2 = 100
+# Write your print statement
 # Check the memory address of var2. Did the Python interpreter assign a new memory address or reuse the existing one?
 # ________________________________________________________________________
 
@@ -67,7 +68,13 @@ var2 = 100
 
 ### 3. Memory map
 
-
+```python
+str1 = "Hello"
+str2 = "World"
+# Find out the memory addresses of each character in ```str1``` and ```str2```.
+# The following is the example
+print(hex(id(str1[0])), hex(id(str1[1])))  # where 0 is the first index and 1 is the second index
+```
 
 **End of exercise**
 
