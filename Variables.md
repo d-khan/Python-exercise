@@ -77,7 +77,7 @@ print(hex(id(str1[0])), hex(id(str1[1])))  # where 0 is the first index and 1 is
 # Perform the same way as mentioned above and find out the addresses of other characters.
 ```
 
-| Address | Char |
+| Address in hexadecimal | Char |
 | ------- | ---- |
 | #       |      |
 | #       |      |
