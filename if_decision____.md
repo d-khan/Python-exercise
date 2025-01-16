@@ -33,36 +33,28 @@ print("Monday" > "Tuesday")  # this gives False because the first character of "
 # as compared to the first character of "Tuesday" (T)
 ```
 
-Research and find the ASCII number of all the characters available on the keyboard
+Research and find the ASCII number of all the characters available on the keyboard.
 
-### 2. Variable memory usage
+### 2. Decision statements
+
+> Find the largest two integers
 
 ```python
-var1 = 10
-# Check the memory address of var1 by using the following statement
-print(hex(id(var1)))
-# __________________________________ Write down the address here
-var1 = 100
-# Check the memory address of var1 again
-print(hex(id(var1)))
-# __________________________________ Write down the address here
+# Read two numbers
+number1 = int(input("Enter the first number: "))
+number2 = int(input("Enter the second number: "))
 
-# You should see two distinct addresses for var1. Explain why there are two different addresses and what happened to the first one.
+# Choose the larger number
+if number1 > number2:
+    larger_number = number1
+else:
+    larger_number = number2
 
-# ________________________________________________________________________
-
-# ________________________________________________________________________
-
-# ________________________________________________________________________
-
-var2 = 100
-# Write your print statement
-# Check the memory address of var2. Did the Python interpreter assign a new memory address or reuse the existing one?
-# ________________________________________________________________________
-
-# ________________________________________________________________________
+# Print the result
+print("The larger number is:", larger_number)
 
 ```
+
 
 ### 3. Memory map
 
