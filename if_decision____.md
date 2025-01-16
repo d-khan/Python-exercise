@@ -1,17 +1,17 @@
 # Decision statements
 
-Variables are human-friendly names of memory locations
+To execute or not to execute—that is the question. I have adapted a Shakespeare quote, originally written as "To be, or not to be—that is the question." Decision statements generally work in a similar way. You evaluate an expression, and if the result is true, you perform a specific action; otherwise, you take a different action.
 
 ## Objective
 
-1. Understand how to define variables in Python.
-2. Gain a clear understanding of how the Python interpreter allocates memory addresses to variables.
-3. Skilled in troubleshooting techniques.
+1. Understand how decision statements are applied in Python
+2. Skilled in troubleshooting techniques.
 
 ## Prerequisite
 
-- Python literals lecture & lab
-- Programming variables lecture
+- Input functions
+- Python literals
+- Programming variables
 
 ## What do you need to complete this exercise?
 
@@ -19,24 +19,21 @@ You can perform this exercise in any Python IDE, including JupyterLab or Google 
 I recommend using PyCharm by JetBrains. As a Miramar College student, you are eligible for a free license for the JetBrains IDE environment. 
 Please follow my video tutorial on how to download and install PyCharm Professional. 
 
-### 1. Variable definition
-No need to declare the variable data type; variables can be assigned values or strings as needed.
+### 1. Comparison operators
+Decision statements use comparison operators and based on the True or False result, the specific statements are executed
 
 ```python
-var1 = 10 # integer
-print(type(var1)) # var1 holds integer data type
-var2 = 100.0 # float
-print(type(var2))  # var2 holds float data type
-print(var1 * var2)  # var1 * var2 - float data type
-str1 = "Hello World"
-type(str1)
-print(str1)
-str2 = 'Single quote can also be used'
-type(str2)
-print(str2)
-var1 = "Now I am a string data type"
-del(var1) # delete the var1
+print(2 < 5)  # this gives True
+print(10 <= 10)  # this gives True
+x = 10 
+print(20 < x)  # this gives False
+print("A" < "a")  # this gives True because the ASCII of "A" is 65 and "a" is 97. The Python interpreter converts the
+# character in ASCII number and then compare.
+print("Monday" > "Tuesday")  # this gives False because the first character of "Monday" (M) has a lower ASCII value
+# as compared to the first character of "Tuesday" (T)
 ```
+
+Research and find the ASCII number of all the characters available on the keyboard
 
 ### 2. Variable memory usage
 
