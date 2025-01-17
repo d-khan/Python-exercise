@@ -20,7 +20,7 @@ I recommend using PyCharm by JetBrains. As a Miramar College student, you are el
 Please follow my video tutorial on how to download and install PyCharm Professional. 
 
 ### 1. Comparison operators
-Decision statements use comparison operators and based on the True or False result, the specific statements are executed
+Decision statements utilize comparison operators, and based on the True or False result, specific statements are executed.
 
 ```python
 print(2 < 5)  # this gives True
@@ -45,7 +45,7 @@ number1 = int(input("Enter the first number: "))
 number2 = int(input("Enter the second number: "))
 
 # Choose the larger number
-if number1 > number2:
+if (number1 > number2):
     larger_number = number1
 else:
     larger_number = number2
@@ -54,6 +54,9 @@ else:
 print("The larger number is:", larger_number)
 
 ```
+> Find the largest three integers just using ```if``` statements
+
+
 
 
 ### 3. Memory map
