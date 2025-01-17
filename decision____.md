@@ -59,7 +59,10 @@ If one expression's result is True, the output will be True regardless of the se
 not(10 > 4) # this is False
 ```
 
-### 2. Bitwise logical operators (and, or, not)
+### 2. Bitwise logical operators (and, or, not, xor)
+**Remember bitwise logical operators operates on bits**
+**To differentiate 
+For example, the ASCII of A is 65 which can be written as 1000001. The 
 
 ### 4. Decision statements
 
