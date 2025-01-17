@@ -58,7 +58,7 @@ print("The larger number is:", larger_number)
 ### 3. Problem-solving
 a. Find the largest three integers just using ```if``` statements. Take user inputs and display the result. 
 
-b. Find several approaches to identify an even or an odd number. The user will input an integer number and the output says "odd or even". Your code should have several sections of code separated by the comments. For example
+b. Identify multiple methods to determine if a number is even or odd. The user will input an integer, and the output will indicate whether it's "odd" or "even." The code should be organized into sections, with comments separating each part. For example
 
 ```python
 #######################
@@ -69,6 +69,16 @@ b. Find several approaches to identify an even or an odd number. The user will i
 # Approach 3
 #######################
 ```
+c. Write the code to implement CISC 179 course "Grading Scheme". The following is the grading scheme.
+|Grade|Percent|Description
+|-|-----|-|
+|A|>90|Work of genuinely superior quality.|
+|B|80-89|Passing performance falls approximately in the upper distribution of passing grades.|
+|C|71-79|Passing performance falls approximately in the center of the distribution of all passing grades.|
+|D|65-70|Passing performance falls approximately in the lower distribution of passing grades.|
+|F|<65|Failing performance that does not satisfy the basic requirements of the course and needs to be improved in significant ways.|
+
+Use ```if```, ```elif```, and ```else``` statements, and add comments to clarify the logic.
 
 
 ### 4. Alternative code writeup
