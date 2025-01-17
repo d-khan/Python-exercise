@@ -35,7 +35,7 @@ print("Monday" > "Tuesday")  # this gives False because the first character of "
 # as compared to the first character of "Tuesday" (T)
 ```
 
-Research and find the ASCII number of all the characters available on the keyboard.
+Research and find the ASCII number of all the characters available on the keyboard using Python.
 
 ### 2. Logical operators (and, or, not)
 **Do not write logical operators in all uppercase like AND, OR, NOT - Syntax Error**
@@ -62,7 +62,7 @@ not(10 > 4) # this is False
 
 ### 3. Bitwise logical operators (and, or, not, xor)
 **Remember bitwise logical operators operates on bits**
-To differentiate logical operators and bitwise logical operators, Python uses different symbols to differentiate
+To differentiate between logical operators and bitwise logical operators, Python uses distinct symbols for each.
 
 | Name of the logical operator | Logical operator in Python | Bitwise logical operator in Python |
 | ---------------------------- | -------------------------- | ---------------------------------- |
@@ -78,7 +78,7 @@ x = 0b1110 # 0b represents binary number, decimal 14
 y = 0b1011 # decimal 11
 result = x | y # Bitwise or, result in decimal format
 print(result)
-print(bin(result))
+print(bin(result)) # bin() function converts decimal to binary
 
 # Proof
 # 1110
@@ -86,7 +86,6 @@ print(bin(result))
 # ----
 # 1111
 ```
-
 
 ### 4. Decision statements
 
@@ -153,12 +152,7 @@ The user inputs a percentage as an integer, and the output displays the correspo
 
 d. Write a code which takes logical operators ```and```, ```or```, ```not``` as an user input and create a truth table by writing expressions. Display the table using ```print()``` function.
 
-e. Example of fire alarm
-
-f. Code and decode using XOR
-
-
-### 6. Alternative code writeup
+### 6. Code revision
 Revise the code using **nested** ```if```, ```elif```, and ```else``` statements, and add comments to clarify the logic.
 ```
 name = input("What's your name? ")
@@ -174,8 +168,8 @@ if (time > 1800):
 print("Good Bye")
 ```
 
-### 7. Output without using Python
-What will be the output of the code provided below?
+### 7. Output verification
+What will be the output of the code provided below **without using Python**?
 ```python
 x = 1
 y = 1.0
