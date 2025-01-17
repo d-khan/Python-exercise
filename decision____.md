@@ -61,8 +61,11 @@ not(10 > 4) # this is False
 
 ### 2. Bitwise logical operators (and, or, not, xor)
 **Remember bitwise logical operators operates on bits**
-**To differentiate 
-For example, the ASCII of A is 65 which can be written as 1000001. The 
+To differentiate logical operators and bitwise logical operators, Python uses different symbols to differentiate
+
+| - | - |
+| - | - |
+
 
 ### 4. Decision statements
 
