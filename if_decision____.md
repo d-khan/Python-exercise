@@ -69,7 +69,7 @@ b. Identify multiple methods to determine if a number is even or odd. The user w
 # Approach 3
 #######################
 ```
-c. Write the code to implement CISC 179 course "Grading Scheme". The following is the grading scheme.
+c. Implement the grading scheme for the CISC 179 course. The grading scheme as follows:
 |Grade|Percent|Description
 |-|-----|-|
 |A|>90|Work of genuinely superior quality.|
@@ -78,8 +78,7 @@ c. Write the code to implement CISC 179 course "Grading Scheme". The following i
 |D|65-70|Passing performance falls approximately in the lower distribution of passing grades.|
 |F|<65|Failing performance that does not satisfy the basic requirements of the course and needs to be improved in significant ways.|
 
-The user input the percentage in integer and the output shows the grade and the description. Use ```if```, ```elif```, and ```else``` statements, and add comments to clarify the logic.
-
+The user inputs a percentage as an integer, and the output displays the corresponding grade along with a description. The logic uses ```if```, ```elif```, and ```else``` statements, with comments to clarify each part.
 
 ### 4. Alternative code writeup
 Revise the code using **nested** ```if```, ```elif```, and ```else``` statements, and add comments to clarify the logic.
