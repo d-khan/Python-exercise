@@ -115,6 +115,8 @@ if (time > 1800):
 print("Good Bye")
 ```
 
+### 5. Output 
+
 ## Challenges
 
 Please describe the challenges you faced during the exercise.
