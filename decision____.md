@@ -9,6 +9,7 @@ To execute or not to execute—that is the question. I have adapted a Shakespear
 
 ## Prerequisite
 
+- Converting binary to decimal and decimal to binary
 - Decision statements
 - Input functions
 - Python literals
@@ -63,12 +64,27 @@ not(10 > 4) # this is False
 **Remember bitwise logical operators operates on bits**
 To differentiate logical operators and bitwise logical operators, Python uses different symbols to differentiate
 
-| Logical operator | Bitwise logical operator |
-|        -         |            -             |
-| and              | &                        |
-| or               | \|                       |
-| not              | ~                        |
-|                  | ^                        |
+| Name of the logical operator | Logical operator in Python | Bitwise logical operator in Python |
+| ---------------------------- | -------------------------- | ---------------------------------- |
+| and                          | and                        | &                                  |
+| or                           | or                         | \|                                 |
+| not                          | not                        | ~                                  |
+| xor                          | -                          | ^                                  |
+|                              |                            |                                    |
+
+```python
+x = 0b1110 # 0b represents binary number, decimal 14
+y = 0b1011 # decimal 11
+result = x | y # Bitwise or, result in decimal format
+print(result)
+print(bin(result))
+
+# Proof
+# 1110
+# 1011
+# ----
+# 1111
+```
 
 
 ### 4. Decision statements
