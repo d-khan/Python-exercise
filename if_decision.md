@@ -115,7 +115,23 @@ if (time > 1800):
 print("Good Bye")
 ```
 
-### 5. Output 
+### 5. Output without using Python
+What will be the output of the code provided below?
+```python
+x = 1
+y = 1.0
+z = "1"
+
+if x == y:
+    print("one")
+if y == int(z):
+    print("two")
+elif x == y:
+    print("three")
+else:
+    print("four")
+```
+Please execute the code provided above in Python to confirm your result.
 
 ## Challenges
 
