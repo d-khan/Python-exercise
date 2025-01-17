@@ -54,18 +54,25 @@ else:
 print("The larger number is:", larger_number)
 
 ```
-> Find the largest three integers just using ```if``` statements
+
+### 3. Problem-solving
+a. Find the largest three integers just using ```if``` statements. Take user inputs and display the result. 
+
+b. Find several ways to identify an even or an odd number. The user will input an integer number and the output says "odd or even". Your code should have several sections of code separated by the comments. For example
+
+```python
+#######################
+# Section 1
+#######################
+# Section 2
+#######################
+# Section 3
+#######################
+```
 
 
 
 
-### 3. Memory map
-
-
-### 4. Problem-solving
-a. Write a code that takes number of years as input, calculates and prints the number of hours and minutes.  
-
-b. Write a code
 
 ### 5. Troubleshooting
 Please troubleshoot the following issue **without using Python**, and explain your reasoning.
