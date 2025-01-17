@@ -119,7 +119,3 @@ Please describe the challenges you faced during the exercise.
 
 **End of exercise**
 
-  
-
-**End of exercise**
-
