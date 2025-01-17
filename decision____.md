@@ -5,7 +5,7 @@ To execute or not to execute—that is the question. I have adapted a Shakespear
 ## Objective
 
 1. Understand how decision statements are applied in Python
-2. Apply comparison and logical operators to evaluate the expression
+2. Apply comparison, logical and bitwise logical operators to evaluate the expression
 
 ## Prerequisite
 
