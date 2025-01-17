@@ -71,9 +71,21 @@ b. Find several approaches to identify an even or an odd number. The user will i
 ```
 
 
+### 4. Alternative code writeup
+Revise the code using **nested** ```if```, ```elif```, and ```else``` statements, and add comments to clarify the logic.
+```
+name = input("What's your name? ")
+time = int(input("What time is it? "))
 
-### 5. Troubleshooting
-Please troubleshoot the following issue **without using Python**, and explain your reasoning.
+if (time < 1200):
+    print("Hi "+name + ", good morning!")
+if (time < 1800):
+    print("Hi "+name + ", good afternoon!")
+if (time > 1800):
+    print("Hi "+name + ", good evening!")
+
+print("Good Bye")
+```
 
 ## Challenges
 
