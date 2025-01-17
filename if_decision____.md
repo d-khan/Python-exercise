@@ -78,7 +78,7 @@ c. Write the code to implement CISC 179 course "Grading Scheme". The following i
 |D|65-70|Passing performance falls approximately in the lower distribution of passing grades.|
 |F|<65|Failing performance that does not satisfy the basic requirements of the course and needs to be improved in significant ways.|
 
-Use ```if```, ```elif```, and ```else``` statements, and add comments to clarify the logic.
+The user input the percentage in integer and the output shows the grade and the description. Use ```if```, ```elif```, and ```else``` statements, and add comments to clarify the logic.
 
 
 ### 4. Alternative code writeup
