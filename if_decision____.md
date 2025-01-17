@@ -5,10 +5,11 @@ To execute or not to execute—that is the question. I have adapted a Shakespear
 ## Objective
 
 1. Understand how decision statements are applied in Python
-2. Skilled in troubleshooting techniques.
+2. Develop the skill to rewrite code while maintaining its original context
 
 ## Prerequisite
 
+- Decision statements
 - Input functions
 - Python literals
 - Programming variables
