@@ -5,7 +5,7 @@ To execute or not to execute—that is the question. I have adapted a Shakespear
 ## Objective
 
 1. Understand how decision statements are applied in Python
-2. Develop the skill to rewrite code while maintaining its original context
+2. Apply comparison and logical operators to evaluate the expression
 
 ## Prerequisite
 
@@ -36,7 +36,32 @@ print("Monday" > "Tuesday")  # this gives False because the first character of "
 
 Research and find the ASCII number of all the characters available on the keyboard.
 
-### 2. Decision statements
+### 2. Logical operators (and, or, not)
+**Do not write logical operators in all uppercase like AND, OR, NOT - Syntax Error**
+
+**and logical operator:** Both expression's result need to be True to get the True output. 
+If one expression's result is False, the output will be False regardless of the second expression's result. For example,
+
+``` python
+10 > 4 and 50 < 100  # True and True is True
+10 < 4 and 50 < 100  # Here first expression is False, the output will be False
+```
+**or logical operator:** Both expression's result need to be False to get the False output. 
+If one expression's result is True, the output will be True regardless of the second expression's result. For example,
+
+``` python
+10 < 4 or 50 > 100  # False and False is False
+10 > 4 and 50 > 100  # Here first expression is True, the output will be True
+```
+**not logical operator:** Inverts the result
+```python
+10 > 4 # this is True
+not(10 > 4) # this is False
+```
+
+### 2. Bitwise logical operators (and, or, not)
+
+### 4. Decision statements
 
 > Find the largest two integers
 
@@ -74,7 +99,7 @@ else:
 ```
 
 
-### 3. Problem-solving
+### 5. Problem-solving
 a. Find the largest three integers just using ```if``` statements. Take user inputs and display the result. 
 
 b. Identify multiple methods to determine if a number is even or odd. The user will input an integer, and the output will indicate whether it's "odd" or "even." The code should be organized into sections, with comments separating each part. For example
@@ -99,7 +124,14 @@ c. Implement the grading scheme for the CISC 179 course. The grading scheme as f
 
 The user inputs a percentage as an integer, and the output displays the corresponding grade along with a description. The logic uses ```if```, ```elif```, and ```else``` statements, with comments to clarify each part.
 
-### 4. Alternative code writeup
+d. Write a code which takes logical operators ```and```, ```or```, ```not``` as an user input and create a truth table by writing expressions. Display the table using ```print()``` function.
+
+e. Example of fire alarm
+
+f. Code and decode using XOR
+
+
+### 6. Alternative code writeup
 Revise the code using **nested** ```if```, ```elif```, and ```else``` statements, and add comments to clarify the logic.
 ```
 name = input("What's your name? ")
@@ -115,7 +147,7 @@ if (time > 1800):
 print("Good Bye")
 ```
 
-### 5. Output without using Python
+### 7. Output without using Python
 What will be the output of the code provided below?
 ```python
 x = 1
