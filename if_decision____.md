@@ -56,6 +56,24 @@ print("The larger number is:", larger_number)
 
 ```
 
+> Nested conditional statements
+
+```python
+x = 10
+
+if x > 5:  # True
+    if x == 6:  # False
+        print("nested: x == 6")
+    elif x == 10:  # True
+        print("nested: x == 10")
+    else:
+        print("nested: else")
+else:
+    print("else")
+
+```
+
+
 ### 3. Problem-solving
 a. Find the largest three integers just using ```if``` statements. Take user inputs and display the result. 
 
