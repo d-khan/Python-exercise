@@ -60,7 +60,7 @@ If one expression's result is True, the output will be True regardless of the se
 not(10 > 4) # this is False
 ```
 
-### 2. Bitwise logical operators (and, or, not, xor)
+### 3. Bitwise logical operators (and, or, not, xor)
 **Remember bitwise logical operators operates on bits**
 To differentiate logical operators and bitwise logical operators, Python uses different symbols to differentiate
 
@@ -72,6 +72,7 @@ To differentiate logical operators and bitwise logical operators, Python uses di
 | xor                          | -                          | ^                                  |
 |                              |                            |                                    |
 
+#### Example bitwise or
 ```python
 x = 0b1110 # 0b represents binary number, decimal 14
 y = 0b1011 # decimal 11
