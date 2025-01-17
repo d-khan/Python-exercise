@@ -66,7 +66,7 @@ To differentiate logical operators and bitwise logical operators, Python uses di
 | Logical operator | Bitwise logical operator |
 |-|-|
 | and              | &                        |
-| or               | |                        |
+| or               | \|                        |
 | not              | ~                        |
 | -                | ^                        |
 
