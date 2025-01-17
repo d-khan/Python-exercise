@@ -64,6 +64,7 @@ not(10 > 4) # this is False
 To differentiate logical operators and bitwise logical operators, Python uses different symbols to differentiate
 
 | Logical operator | Bitwise logical operator |
+|-|-|
 | and              | &                        |
 | or               | |                        |
 | not              | ~                        |
