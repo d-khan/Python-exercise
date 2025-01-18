@@ -150,7 +150,7 @@ c. Implement the grading scheme for the CISC 179 course. The grading scheme as f
 
 The user inputs a percentage as an integer, and the output displays the corresponding grade along with a description. The logic uses ```if```, ```elif```, and ```else``` statements, with comments to clarify each part.
 
-d. Write a code which takes logical operators ```and```, ```or```, ```not``` as an user input and create a truth table by writing expressions. Display the table using ```print()``` function.
+d. Write a code which takes ```and```, ```or```, ```not``` as an user input. Create a truth table by writing your expressions. Display the truth table using ```print()``` function. Research how the truth tables for logical operators are structured.
 
 ### 6. Code revision
 Revise the code using **nested** ```if```, ```elif```, and ```else``` statements, and add comments to clarify the logic.
