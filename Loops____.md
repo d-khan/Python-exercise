@@ -21,8 +21,8 @@ Please follow my video tutorial on how to download and install PyCharm Professio
 
 ### 1. While loop
 Write the code in Python, use the while loop and perform the following steps
-1. Take any non-negative and non-zero integer number and name it n0
-2. if the number if even, evaluate a new ```n0``` as ```n0 ÷ 2```;
+1. Take any non-negative and non-zero integer number and name it ```n0```
+2. if the number is even, evaluate a new ```n0``` as ```n0 ÷ 2```;
 3. Otherwise, if the number is odd, evaluate a new ```n0``` as ```3 * n0 + 1```;
 4. if ```n0``` is not equal to 1, go to point 2.
 
