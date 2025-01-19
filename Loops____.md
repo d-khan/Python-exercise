@@ -1,9 +1,7 @@
 # Loops
-
-
+A sequence of instructions that repeats until a certain condition is met
 
 ## Objective
-
 Understand how loops are applied
 
 ## Prerequisite
