@@ -59,7 +59,7 @@ T = 7
 o = 4
 ```
 
-> **Note:** The above expected output is partial. The sum of total distinct alphabets should be equal to the total number of alphabets.
+> **Note:** The expected output above is incomplete. The sum of the total distinct alphabets must equal the total number of alphabets in the given text.
 
 
 
