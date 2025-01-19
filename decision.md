@@ -152,6 +152,9 @@ The user inputs a percentage as an integer, and the output displays the correspo
 
 d. Write a code which takes ```and```, ```or```, ```not``` as an user input. Create a truth table by writing your expressions. Display the truth table using ```print()``` function. Research how the truth tables for logical operators are structured.
 
+e. To determine whether an integer is even or odd using only a bitwise AND operator. the user will input an integer. Your code should utilize the bitwise AND operator to differentiate between even and odd numbers. Finally, use the print() function to display the result. Avoid using any modulus or remainder operators.
+
+
 ### 6. Code revision
 Revise the code using **nested** ```if```, ```elif```, and ```else``` statements, and add comments to clarify the logic.
 ```
