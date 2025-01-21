@@ -1,10 +1,11 @@
 # Lists in Python
-A list is an ordered sequence of elements, where each element can be of any data type (e.g., numbers, strings, Booleans, even other lists). 
-A list in Python is mutable.
-
+A list is an ordered collection of elements, and each element can be of any data type, such as numbers, strings, Booleans, or even other lists. In Python, lists are mutable, meaning their contents can be changed. Lists are particularly useful when you want to handle a group of related values.
 
 ## Objective
-Understand how loops are applied
+Comprehend the application of lists.
+Understand how a list uses memory
+Apply various operations on a list
+
 
 ## Prerequisite
 
@@ -19,7 +20,10 @@ You can perform this exercise in any Python IDE, including JupyterLab or Google 
 I recommend using PyCharm by JetBrains. As a Miramar College student, you are eligible for a free license for the JetBrains IDE environment. 
 Please follow my video tutorial on how to download and install PyCharm Professional. 
 
-### 1. While loop
+### 1. Lists
+
+a. Using a range function, generate a list of 100 integers
+
 
 a. Please write Python code using a while loop to perform the following steps.
 
