@@ -2,9 +2,9 @@
 A list is an ordered collection of elements, and each element can be of any data type, such as numbers, strings, Booleans, or even other lists. In Python, lists are mutable, meaning their contents can be changed. Lists are particularly useful when you want to handle a group of related values.
 
 ## Objective
-Comprehend the application of lists.
-Understand how a list uses memory
-Apply various operations on a list
+- Comprehend the application of lists
+- Understand how a list uses memory
+- Apply various operations on a list
 
 
 ## Prerequisite
@@ -22,7 +22,12 @@ Please follow my video tutorial on how to download and install PyCharm Professio
 
 ### 1. Lists
 
-a. Using a range function, generate a list of 100 integers
+a. Using a range function, generate a list of 100 integers and assign the list to my_list.
+```
+- Verify that the variable data type of my_list is list
+-
+```
+
 
 
 a. Please write Python code using a while loop to perform the following steps.
