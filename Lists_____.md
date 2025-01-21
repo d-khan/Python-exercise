@@ -24,7 +24,7 @@ Please follow my video tutorial on how to download and install PyCharm Professio
 
 a. Using a range function, generate a list of 100 integers and assign the list to my_list.
 ```
-- Verify that the variable data type of my_list is list
+- Verify that the variable data type of **my_list** is list
 -
 ```
 
