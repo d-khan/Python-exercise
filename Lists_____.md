@@ -22,7 +22,7 @@ Please follow my video tutorial on how to download and install PyCharm Professio
 
 ### 1. Lists
 
-1a. Using a range function, generate a list of 100 integers and assign the list to my_list. Verify that the variable data type of my_list is list. Use your favorite four methods and apply on the list. You can find the methods on [Python Docs](https://docs.python.org/3/tutorial/datastructures.html)
+1a. Using a range function, generate a list of 100 integers and assign the list to ```my_list```. Verify that the variable ```my_list``` data type is list. Use your favorite four methods and apply on the list. You can find the methods on [Python Docs](https://docs.python.org/3/tutorial/datastructures.html)
 
 
 
