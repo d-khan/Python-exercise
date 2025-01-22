@@ -22,8 +22,11 @@ Please follow my video tutorial on how to download and install PyCharm Professio
 
 ### 1. Lists
 
-1a. Using a range function, generate a list of 100 integers and assign the list to ```my_list```. Verify that the variable ```my_list``` data type is list. Use your favorite four methods and apply on the list. You can find the methods on [Python Docs](https://docs.python.org/3/tutorial/datastructures.html)
+a. Using a range function, generate a list of 100 integers and assign the list to ```my_list```. Verify that the variable ```my_list``` data type is list. Use your favorite four methods and apply on the list. You can find the methods on [Python Docs](https://docs.python.org/3/tutorial/datastructures.html)
 
+b. Suppose that you have a list 10 items long. How might you move the last three items from the end of the list to the beginning, keeping them in the same order?
+
+c. What would be the result of ```len([[1,2]] * 3)```? Try do it without coding and then verify using Python
 
 
 
