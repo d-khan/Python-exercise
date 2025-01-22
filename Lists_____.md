@@ -32,7 +32,7 @@ d. Create a list ```my-list-ten``` of 10 items that includes some duplicate entr
 
 e. Delete the list ```my-list-ten``` created in the above step.
 
-f. Create a new list ```my-new-list``` of the same 10 items used in ```my-list-ten```. Generate a second list 
+f. Create a new list ```my-new-list``` of the same 10 items used in ```my-list-ten```. Generate memory addresses of the items in ```my-new-list``` and compare them with the memory addresses in ```my-list-ten-mem```. Discuss what do you observe.
 
 ## Challenges
 
