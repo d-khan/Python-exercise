@@ -34,7 +34,7 @@ e. Delete the list ```my-list-ten``` created in the above step.
 
 f. Create a new list ```my-new-list``` of the same 10 items used in ```my-list-ten```. Generate memory addresses of the items in ```my-new-list``` and compare them with the memory addresses in ```my-list-ten-mem```. Discuss what do you observe.
 
-g. Suppose that you have the following list: ```x = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]```. What code could you use to get a copy ```y``` of that list in which you could change the elements without the side effect of changing the contents of x?
+g. Suppose that you have the following list: ```x = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]```. What code could you use to get a copy ```y``` of that list in which you could change the elements without the side effect of changing the contents of ```x```?
 
 ## Challenges
 
