@@ -36,6 +36,11 @@ f. Create a new list ```my-new-list``` of the same 10 items used in ```my-list-t
 
 g. Suppose that you have the following list: ```x = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]```. What code could you use to get a copy ```y``` of that list in which you could change the elements without the side effect of changing the contents of ```x```?
 
+h. Is it possible to use multiple expressions within a list comprehension?
+
+i. Using a list comprehension, count how many spaces are in the following statement.
+"To be, or not to be, this is the question"
+
 ## Challenges
 
 Please describe the challenges you faced during the exercise.
