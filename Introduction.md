@@ -78,3 +78,83 @@ INTERPRETATION - you (or any user of the code) can translate the source program 
 Due to some very fundamental reasons, a particular high-level programming language is designed to fall into one of these two categories.
 
 There are very few languages that can be both compiled and interpreted. Usually, a programming language is projected with this factor in its constructors' minds - will it be compiled or interpreted?
+
+# What does the interpreter actually do?
+Let's assume once more that you have written a program. Now, it exists as a computer file: a computer program is actually a piece of text, so the source code is usually placed in text files.
+
+Note: it has to be pure text, without any decorations like different fonts, colors, embedded images or other media. Now you have to invoke the interpreter and let it read your source file.
+
+The interpreter reads the source code in a way that is common in Western culture: from top to bottom and from left to right. There are some exceptions - they'll be covered later in the course.
+
+First of all, the interpreter checks if all subsequent lines are correct (using the four aspects covered earlier).
+
+If the interpreter finds an error, it finishes its work immediately. The only result in this case is an error message.
+
+The interpreter will inform you where the error is located and what caused it. However, these messages may be misleading, as the interpreter isn't able to follow your exact intentions, and may detect errors at some distance from their real causes.
+
+For example, if you try to use an entity of an unknown name, it will cause an error, but the error will be discovered in the place where it tries to use the entity, not where the new entity's name was introduced.
+
+In other words, the actual reason is usually located a little earlier in the code, for example, in the place where you had to inform the interpreter that you were going to use the entity of the name.
+
+If the line looks good, the interpreter tries to execute it (note: each line is usually executed separately, so the trio "read-check-execute" can be repeated many times - more times than the actual number of lines in the source file, as some parts of the code may be executed more than once).
+
+It is also possible that a significant part of the code may be executed successfully before the interpreter finds an error. This is normal behavior in this execution model.
+
+You may ask now: which is better? The "compiling" model or the "interpreting" model? There is no obvious answer. If there had been, one of these models would have ceased to exist a long time ago. Both of them have their advantages and their disadvantages.
+
+# Compilation vs. interpretation - advantages and disadvantages
+
+## Compilation advantages
+- the execution of the translated code is usually faster;
+- only the user has to have the compiler - the end-user may use the code without it;
+- the translated code is stored using machine language - as it is very hard to understand it, your own inventions and programming tricks are likely to remain your secret.
+
+## Compilation disadvantages
+- the compilation itself may be a very time-consuming process - you may not be able to run your code immediately after making an amendment;
+- you have to have as many compilers as hardware platforms you want your code to be run on.
+
+## Interpretation advantages
+- you can run the code as soon as you complete it - there are no additional phases of translation;
+- the code is stored using programming language, not machine language - this means that it can be run on computers using different machine languages; you don't compile your code separately for each different architecture.
+
+## Interpretation disadvantages
+- don't expect interpretation to ramp up your code to high speed - your code will share the computer's power with the interpreter, so it can't be really fast;
+- both you and the end user have to have the interpreter to run your code.
+
+## What does this all mean for you?
+
+Python is an interpreted language. This means that it inherits all the described advantages and disadvantages. Of course, it adds some of its unique features to both sets.
+If you want to program in Python, you'll need the Python interpreter. You won't be able to run your code without it. Fortunately, Python is free. This is one of its most important advantages.
+Due to historical reasons, languages designed to be utilized in the interpretation manner are often called scripting languages, while the source programs encoded using them are called scripts.
+
+# What is Python?
+Python is a widely-used, interpreted, object-oriented, and high-level programming language with dynamic semantics, used for general-purpose programming.
+
+And while you may know the python as a large snake, the name of the Python programming language comes from an old BBC television comedy sketch series called Monty Python's Flying Circus.
+
+At the height of its success, the Monty Python team were performing their sketches to live audiences across the world, including at the Hollywood Bowl.
+
+Since Monty Python is considered one of the two fundamental nutrients to a programmer (the other being pizza), Python's creator named the language in honor of the TV show.
+
+# Who created Python?
+One of the amazing features of Python is the fact that it is actually one person's work. Usually, new programming languages are developed and published by large companies employing lots of professionals, and due to copyright rules, it is very hard to name any of the people involved in the project. Python is an exception.
+
+There are not many languages whose authors are known by name. Python was created by Guido van Rossum, born in 1956 in Haarlem, the Netherlands. Of course, Guido van Rossum did not develop and evolve all the Python components himself.
+
+
+The speed with which Python has spread around the world is a result of the continuous work of thousands (very often anonymous) programmers, testers, users (many of them aren't IT specialists) and enthusiasts, but it must be said that the very first idea (the seed from which Python sprouted) came to one head - Guido's.
+
+# A hobby programming project
+The circumstances in which Python was created are a bit puzzling. According to Guido van Rossum:
+> In December 1989, I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. My office (...) would be closed, but I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately: a descendant of ABC that would appeal to Unix/C hackers. I chose Python as a working title for the project, being in a slightly irreverent mood (and a big fan of Monty Python's Flying Circus).
+Guido van Rossum
+
+# Python goals
+In 1999, Guido van Rossum defined his goals for Python:
+
+an easy and intuitive language just as powerful as those of the major competitors;
+open source, so anyone can contribute to its development;
+code that is as understandable as plain English;
+suitable for everyday tasks, allowing for short development times.
+About 20 years later, it is clear that all these intentions have been fulfilled. Some sources say that Python is the most popular programming language in the world, while others claim it's the second or the third.
+
