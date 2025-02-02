@@ -152,9 +152,9 @@ Guido van Rossum
 # Python goals
 In 1999, Guido van Rossum defined his goals for Python:
 
-an easy and intuitive language just as powerful as those of the major competitors;
-open source, so anyone can contribute to its development;
-code that is as understandable as plain English;
-suitable for everyday tasks, allowing for short development times.
+- an easy and intuitive language just as powerful as those of the major competitors;
+- open source, so anyone can contribute to its development;
+- code that is as understandable as plain English;
+- suitable for everyday tasks, allowing for short development times.
 About 20 years later, it is clear that all these intentions have been fulfilled. Some sources say that Python is the most popular programming language in the world, while others claim it's the second or the third.
 
