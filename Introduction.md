@@ -158,3 +158,25 @@ In 1999, Guido van Rossum defined his goals for Python:
 - suitable for everyday tasks, allowing for short development times.
 About 20 years later, it is clear that all these intentions have been fulfilled. Some sources say that Python is the most popular programming language in the world, while others claim it's the second or the third.
 
+Either way, it still occupies a high rank in the top ten of the PYPL PopularitY of Programming Language and the TIOBE Programming Community Index.
+
+Python isn't a young language anymore. It is mature and trustworthy. It's not a one-hit wonder. It's a bright star in the programming firmament, and time spent learning Python is a very good investment.
+
+# What makes Python special?
+How does it happen that programmers, young and old, experienced and novice, want to use it? How did it happen that large companies adopted Python and implemented their flagship products using it?
+
+There are many reasons – we've listed some of them already, but let's enumerate them again in a more practical manner:
+
+- it's easy to learn – the time needed to learn Python is shorter than for many other languages; this means that it's possible to start the actual programming faster;
+- it's easy to teach – the teaching workload is smaller than that needed by other languages; this means that the teacher can put more emphasis - on general (language-independent) programming techniques, not wasting energy on exotic tricks, strange exceptions and incomprehensible rules;
+- it's easy to use for writing new software – it's often possible to write code faster when using Python;
+- it's easy to understand - it's also often easier to understand someone else's code faster if it is written in Python;
+- it's easy to obtain, install and deploy – Python is free, open and multiplatform; not all languages can boast that.
+Of course, Python has its drawbacks, too:
+
+- it's not a speed demon – Python does not deliver exceptional performance;
+- in some cases it may be resistant to some simpler testing techniques – this may mean that debugging Python code can be more difficult than with other languages; fortunately, making mistakes is also harder in Python.
+
+It should also be stated that Python is not the only solution of its kind available on the IT market.
+
+It has lots of followers, but there are many who prefer other languages and don't even consider Python for their projects.
