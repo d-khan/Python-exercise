@@ -31,6 +31,8 @@ c. Without coding, what is the output of the following statement:
 
 d. Identify a situation where you have to print data with ```flush=True``` and ```flush=False```.
 
+e. By default, the ```flush``` is disabled but ```print()``` output behaves like ```flush=True```. Which argument triggers the flush?
+
 ## Challenges
 
 Please describe the challenges you faced during the exercise.
