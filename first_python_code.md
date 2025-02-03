@@ -3,6 +3,10 @@
 ## Objective
 Write your very first python code
 
+## Prerequisite
+
+- Your very first code lecture
+
 ## What do you need to complete this exercise?
 
 You can perform this exercise in any Python IDE, including JupyterLab or Google Colab.
@@ -11,7 +15,7 @@ Please follow my video tutorial on how to download and install PyCharm Professio
 
 ### 1. Your first code
 
-a. Print the following statements using the 
+a. Print the following statements using multiple ```print()``` statements 
 ```
 All the world's a stage, 
 And all the men and women merely players: 
@@ -20,45 +24,12 @@ And one man in his time plays many parts,
 His acts being seven ages.
 ```
 
-1. Take any non-negative and non-zero integer number and name it ```n0```
-2. if the number is even, evaluate a new ```n0``` as ```n0 ÷ 2```;
-3. Otherwise, if the number is odd, evaluate a new ```n0``` as ```3 * n0 + 1```;
-4. if ```n0``` is not equal to 1, go to point 2.
+b. Print the above statements using a single ```print()``` statement
 
-#### Sample input: ```16```
+c. Without coding, what is the output of the following statement:
+```print("127","0","0","1",sep=".")```
 
-#### Expected output: ###
-
-```
-8
-4
-2
-1
-steps = 4
-```
-
-b. Write code that uses a while loop and runs indefinitely. Modify the same code to resolve the infinite loop issue.
-
-c. Write a program that takes two integers as input and asks the user to choose an arithmetic operation to perform with those numbers. At the end of the program, prompt the user with the question, "Do you want to continue?" If the user selects "Y" or "y," the program should restart; otherwise, it should exit and display the message, "Have a good day."
-
-### 2. For loops
-
-a. Write a code that counts the total number of characters in a text and also counts each character individually. For example, consider the sentence "To be, or not to be, that is the question." The code should determine the total number of letters and how many times each letter appears, including specific counts for the letters 't' and 'o', etc. Ignore the upper and lower cases letters, and any punctuations symbols. Use only for loop, while loop, break and continue statements where necessary.
-
-#### Sample input: ```To be, or not to be, that is the question```
-
-#### Expected output: ###
-
-```
-Total number of alphabets: 30
-Total number of distinct alphabets are:
-T = 7
-o = 4
-```
-
-> **Note:** The expected output above is incomplete. The sum of the total distinct alphabets must equal the total number of alphabets in the given text.
-
-
+d. Identify a situation where you have to print data with ```flush=True``` and ```flush=False```.
 
 ## Challenges
 
