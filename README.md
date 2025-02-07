@@ -7,3 +7,7 @@ This is a supplemental material
 ```{include} _Variables.md
 ```
 
+<iframe
+  src="https://github.com/d-khan/Python-exercise/blob/main/Variables.md"
+  style="width:100%; height:300px;"
+></iframe>
