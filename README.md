@@ -8,3 +8,7 @@ https://github.com/d-khan/assembly/blob/main/CISC%20211%20course%20outline%20F20
 
 
 [Test](https://github.com/d-khan/assembly/blob/main/Course%20homepage.png)
+
+[include](File:Variables.md)
+
+
