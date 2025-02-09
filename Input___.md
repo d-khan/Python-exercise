@@ -3,13 +3,11 @@
 ## Objective
 
 1. Understand how ```input()``` function is applied.
-2. Gain a clear understanding of how the Python interpreter allocates memory addresses to variables.
-3. Skilled in troubleshooting techniques.
 
 ## Prerequisite
 
-- Python literals lecture & lab
-- Programming variables lecture
+- Python literals
+- Variables
 
 ## What do you need to complete this exercise?
 
@@ -17,8 +15,11 @@ You can perform this exercise in any Python IDE, including JupyterLab or Google 
 I recommend using PyCharm by JetBrains. As a Miramar College student, you are eligible for a free license for the JetBrains IDE environment. 
 Please follow my video tutorial on how to download and install PyCharm Professional. 
 
-### 1. Variable definition
-No need to declare the variable data type; variables can be assigned values or strings as needed.
+### 1. User input
+a. Write a program that prompts the user to enter the weight of a person in kilograms and outputs the equivalent weight in pounds. (Note that 1 kilogram = 2.2 pounds).
+
+b. Interest on a credit card's unpaid balance is calculated using the average daily balance. Suppose that $netBalance$ 
+
 
 ```python
 var1 = 10 # integer
