@@ -18,7 +18,7 @@ Please follow my video tutorial on how to download and install PyCharm Professio
 ### 1. User input
 a. Write a program that prompts the user to enter the weight of a person in kilograms and outputs the equivalent weight in pounds. (Note that 1 kilogram = 2.2 pounds).
 
-b. Interest on a credit card's unpaid balance is calculated using the average daily balance. Suppose that $netBalance$ is the balance shown in the bill, $payment$ is the payment made, $d1$ is the number of days in the billing cycle, and $d2$ is the number of days payment is made before biling cycle. Then, the average daily balance is: $averageDailybalance = (netBalance \mul d1 - payment \mul d2) / d1$.
+b. Interest on a credit card's unpaid balance is calculated using the average daily balance. Suppose that $netBalance$ is the balance shown in the bill, $payment$ is the payment made, $d1$ is the number of days in the billing cycle, and $d2$ is the number of days payment is made before biling cycle. Then, the average daily balance is: $averageDailybalance = (netBalance \times d1 - payment \times d2) / d1$.
 
 If the interest rate per month is, say, 0.0152, then the interest on the unpaid balance is: $interest = averageDailyBalance * 0.0152$
 
