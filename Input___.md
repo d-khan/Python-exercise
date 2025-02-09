@@ -24,7 +24,7 @@ If the interest rate per month is, say, 0.0152, then the interest on the unpaid 
 
 Write a program that accepts as input $netBalance$, $payment$, $d1$, $d2$, and $interest rate per month$. The program outputs the interest.
 
-c. Two cars A and B leave an intersection at the same time. Car A travels west at an average speed of x miles per hour and car B travels south at an average speed of y miles per hour. Write a program that prompts the user to enter the average speed of both the cards and the elapsed time (in hours and minutes) and outputs the (shortest) distance between the cars.
+c. Two cars A and B leave an intersection at the same time. Car A travels west at an average speed of x miles per hour and car B travels south at an average speed of y miles per hour. Write a program that prompts the user to enter the average speed of both the cars and the elapsed time (in hours and minutes) and outputs the (shortest) distance between the cars.
 
 
 
