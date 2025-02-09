@@ -1,10 +1,8 @@
 # User input using input() function
 
-Variables are human-friendly names of memory locations
-
 ## Objective
 
-1. Understand how to define variables in Python.
+1. Understand how ```input()``` function is applied.
 2. Gain a clear understanding of how the Python interpreter allocates memory addresses to variables.
 3. Skilled in troubleshooting techniques.
 
