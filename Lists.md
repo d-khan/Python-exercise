@@ -40,6 +40,8 @@ h. Is it possible to use multiple expressions within a list comprehension?
 i. Using a list comprehension, count how many spaces are in the following statement.
 "To be, or not to be, this is the question"
 
+j. Choose any 5 lists operations of your choice from the link https://docs.python.org/3/tutorial/datastructures.html
+
 ## Challenges
 
 Please describe the challenges you faced during the exercise.
