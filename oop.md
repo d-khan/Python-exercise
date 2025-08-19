@@ -1,7 +1,3 @@
-OOP.ipynb_
-
-
-
 # OOP in Python
 
 ## Objective
