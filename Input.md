@@ -2,7 +2,7 @@
 
 ## Objective
 
-1. Understand how ```input()``` function is applied.
+Understand how ```input()``` function is applied.
 
 ## Prerequisite
 
