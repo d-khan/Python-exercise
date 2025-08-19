@@ -28,7 +28,15 @@ c. Two cars A and B leave an intersection at the same time. Car A travels west a
 
 ### 2. Troubleshooting
 
+Please troubleshoot the following issue without using Python, and explain your reasoning.
 
+```python
+a. hello = "hello"
+b. _var = 100
+c. !var_1 = 200
+d. print = "print me"
+e. False = 0
+```
 
 ## Challenges
 
