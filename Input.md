@@ -22,6 +22,12 @@ b. Interest on a credit card's unpaid balance is calculated using the average da
 
 If the interest rate per month is, say, 0.0152, then the interest on the unpaid balance is: $interest = averageDailyBalance \times 0.0152$
 
+```python
+# Here is my answer
+```
+
+
+
 Write a program that accepts as input $netBalance$, $payment$, $d1$, $d2$, and $interest rate per month$. The program outputs the interest.
 
 c. Two cars A and B leave an intersection at the same time. Car A travels west at an average speed of x miles per hour and car B travels south at an average speed of y miles per hour. Write a program that prompts the user to enter the average speed of both the cars and the elapsed time (in hours and minutes) and outputs the (shortest) distance between the cars.
