@@ -54,6 +54,11 @@ e. False = 0
 Please describe the challenges you faced during the exercise.
 
 ```python
+29eurgue rfgoieqnrfoinq erofin qeoirfn
+qerg
+qerg
+eq rgqe
+ rgqe
 
 # _________________________________________________________________________________________________
 
