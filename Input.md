@@ -18,7 +18,7 @@ Understand how ```input()``` function is applied.
 ### 1. User input
 a. Write a program that prompts the user to enter the weight of a person in kilograms and outputs the equivalent weight in pounds. (Note that 1 kilogram = 2.2 pounds).
 
-```
+```python
 # This is my code
 print("Hello World")
 ```
